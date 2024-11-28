@@ -2,4 +2,4 @@
 ## Curso completo de HTML - seu PRIMEIRO SITE DO ZERO para iniciar em PROGRAMAÇÃO!
 https://www.youtube.com/watch?v=Fhy-5CtVkiM <br>
 
-por ## Rafaella Ballerini
+por <em> Rafaella Ballerini <em>
